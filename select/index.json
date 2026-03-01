@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "今まで君が泣いた分取り戻そう",
+  "base_artist": "[Alexandros]",
+  "createdAt": "2026-03-01T13:33:58.227146Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "今まで君が泣いた分取り戻そう",
+      "artist": "[Alexandros]",
+      "has_synced": true,
+      "path": "select/01_今まで君が泣いた分取り戻そう_[Alexandros].lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "今まで君が泣いた分取り戻そう",
+      "artist": "[Alexandros]",
+      "has_synced": true,
+      "path": "select/02_今まで君が泣いた分取り戻そう_[Alexandros].lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "今まで君が泣いた分取り戻そう",
+      "artist": "[Alexandros]",
+      "has_synced": false,
+      "path": "select/pl_01_今まで君が泣いた分取り戻そう_[Alexandros].txt"
+    }
+  ]
+}
